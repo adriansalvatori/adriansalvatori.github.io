@@ -32466,7 +32466,7 @@ function (_Component) {
         className: "container"
       }, _react.default.createElement("h1", {
         className: "title is-1"
-      }, "This is a posts list"), _react.default.createElement("p", null, "This posts are fetched from https://jsonplaceholder.typicode.com"), _react.default.createElement("br", null), _react.default.createElement("div", {
+      }, "This is a posts list"), _react.default.createElement("p", null, "This post list is fetched from https://jsonplaceholder.typicode.com"), _react.default.createElement("br", null), _react.default.createElement("div", {
         className: "columns"
       }, _react.default.createElement("div", {
         className: "column"
